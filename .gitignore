@@ -23,5 +23,4 @@ override.tf.json
 # example: *tfplan*
 .DS_Store
 tfc-getting-started/
-*.hcl
 terraform.tf
